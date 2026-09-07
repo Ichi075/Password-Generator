@@ -31,6 +31,22 @@ npm run build  # ビルド (dist/)
 
 - `Language` — 拡張機能 UI の表示言語 (default: `en`)
 
+### How to change the language / 言語の変更方法
+
+**English:**
+You can change the language of the extension UI at any time.
+1. Open Raycast Settings (`⌘,`).
+2. Go to `Extensions` → `Password Generator`.
+3. Change the `Language` preference to one of: English (`en`), 日本語 (`ja`), 简体中文 (`zh_CN`), 繁體中文 (`zh_TW`), 한국어 (`ko`), Русский (`ru`), Español (`es`), Français (`fr`), Deutsch (`de`).
+4. Re-run the `Generate Password` command to see the UI in the new language.
+
+**日本語:**
+拡張機能 UI の言語はいつでも変更できます。
+1. Raycast の設定を開く (`⌘,`)。
+2. `機能拡張 (Extensions)` → `Password Generator` を開く。
+3. `Language` の設定を以下から変更する: English (`en`)、日本語 (`ja`)、简体中文 (`zh_CN`)、繁體中文 (`zh_TW`)、한국어 (`ko`)、Русский (`ru`)、Español (`es`)、Français (`fr`)、Deutsch (`de`)。
+4. `Generate Password` コマンドを再実行すると、新しい言語で表示されます。
+
 ## License
 
 MIT — see [LICENSE](./LICENSE).
