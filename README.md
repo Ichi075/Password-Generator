@@ -1,0 +1,2 @@
+# Password-Generator
+Raycast Extension
