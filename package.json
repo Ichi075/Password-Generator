@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/downloads/extension.schema.json",
-  "name": "password-generator",
+  "name": "password-generator-ja",
   "title": "Password Generator",
   "description": "Generate passwords with custom rules",
   "icon": "icon.png",
