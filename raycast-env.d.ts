@@ -14,10 +14,7 @@ declare type Preferences = ExtensionPreferences
 
 declare namespace Preferences {
   /** Preferences accessible in the `index` command */
-  export type Index = ExtensionPreferences & {
-  /** Language - Language for the extension UI */
-  "language": "en" | "ja" | "zh_CN" | "zh_TW" | "ko" | "ru" | "es" | "fr" | "de"
-}
+  export type Index = ExtensionPreferences & {}
 }
 
 declare namespace Arguments {
